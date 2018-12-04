@@ -72,10 +72,16 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FomMyFirst.Designer.vb">
-      <DependentUpon>FomMyFirst.vb</DependentUpon>
+    <Compile Include="FrmLab1.Designer.vb">
+      <DependentUpon>FrmLab1.vb</DependentUpon>
     </Compile>
-    <Compile Include="FomMyFirst.vb">
+    <Compile Include="FrmLab1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLab2.Designer.vb">
+      <DependentUpon>FrmLab2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLab2.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -95,8 +101,11 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="FomMyFirst.resx">
-      <DependentUpon>FomMyFirst.vb</DependentUpon>
+    <EmbeddedResource Include="FrmLab1.resx">
+      <DependentUpon>FrmLab1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLab2.resx">
+      <DependentUpon>FrmLab2.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>

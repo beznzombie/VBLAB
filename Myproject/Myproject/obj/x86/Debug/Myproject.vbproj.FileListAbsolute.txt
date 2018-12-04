@@ -10,3 +10,10 @@ D:\Chaloemrat\Myproject\Myproject\obj\x86\Debug\Myproject.pdb
 D:\VBLAB\Myproject\Myproject\obj\x86\Debug\Myproject.exe
 D:\VBLAB\Myproject\Myproject\obj\x86\Debug\Myproject.xml
 D:\VBLAB\Myproject\Myproject\obj\x86\Debug\Myproject.pdb
+D:\VBLAB\Myproject\Myproject\bin\Debug\Myproject.exe
+D:\VBLAB\Myproject\Myproject\bin\Debug\Myproject.pdb
+D:\VBLAB\Myproject\Myproject\bin\Debug\Myproject.xml
+D:\VBLAB\Myproject\Myproject\obj\x86\Debug\Myproject.Form1.resources
+D:\VBLAB\Myproject\Myproject\obj\x86\Debug\Myproject.FrmLab2.resources
+D:\VBLAB\Myproject\Myproject\obj\x86\Debug\Myproject.Resources.resources
+D:\VBLAB\Myproject\Myproject\obj\x86\Debug\Myproject.vbproj.GenerateResource.Cache
