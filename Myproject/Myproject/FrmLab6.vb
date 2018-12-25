@@ -14,7 +14,6 @@
             chkFree3.Enabled = True
             lblPaidPrice.Text = Total
         Else
-
             If MsgBox("คุณต้องการจะยกเลิกใช่หรือไม่", vbYesNo) = vbYes Then
 
                 chkItemAdd1.Enabled = False
@@ -35,7 +34,6 @@
                 lblPaidPrice.Text = ""
             Else
                 chkCarForMe.Checked = True
-
             End If
         End If
 

@@ -108,6 +108,12 @@
     <Compile Include="FrmLab5.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="FrmLab7.Designer.vb">
+      <DependentUpon>FrmLab7.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLab7.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -142,6 +148,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmLab5.resx">
       <DependentUpon>FrmLab5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLab7.resx">
+      <DependentUpon>FrmLab7.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
