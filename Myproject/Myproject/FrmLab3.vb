@@ -7,7 +7,7 @@
     Private Sub btnUp_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnUp.Click
         txtInput.Text = Val(txtInput.Text) + 2
     End Sub
-    Private Sub btnDown_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+    Private Sub btnDown_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnDown.Click
         txtInput.Text = Val(txtInput.Text) - 2
     End Sub
 
@@ -94,4 +94,5 @@
     End Sub
 
     
+
 End Class

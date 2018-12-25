@@ -20,3 +20,4 @@ D:\VBLAB\Myproject\Myproject\obj\x86\Debug\Myproject.FrmLab1.resources
 D:\VBLAB\Myproject\Myproject\obj\x86\Debug\Myproject.FrmLab3.resources
 D:\VBLAB\Myproject\Myproject\obj\x86\Debug\Myproject.FrmLab4.resources
 D:\VBLAB\Myproject\Myproject\obj\x86\Debug\Myproject.FrmLab5.resources
+D:\VBLAB\Myproject\Myproject\obj\x86\Debug\Myproject.FrmLab6.resources
